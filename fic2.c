@@ -1,0 +1,1 @@
+%fichier fic2.c
